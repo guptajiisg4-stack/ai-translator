@@ -54,3 +54,16 @@ ollama pull llama3.1:8b
 streamlit run app.py
 ```
 
+### 🎯 Usage
+1. Open the app in your browser (default: http://localhost:8501)
+2. Enter the text you want to translate
+3. Enter the target language (e.g., French, German, Swedish)
+4. Click Translate and get the translated output instantly 🚀
+
+### 📂 Project Structure
+```bash
+ai-translator/
+│── app.py              # Main Streamlit application
+│── requirements.txt    # Project dependencies
+│── .gitignore          # Ignored files (e.g., .venv, __pycache__)
+```
