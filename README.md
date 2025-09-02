@@ -67,3 +67,6 @@ ai-translator/
 │── requirements.txt    # Project dependencies
 │── .gitignore          # Ignored files (e.g., .venv, __pycache__)
 ```
+
+### 📜 License
+This project is licensed under the MIT License.
